@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="join_game_background">#6200EE</color>
+    <color name="create_game_background">#FE4E6C</color>
+    <color name="black_text">#2F2F2F</color>
+    <color name="how_do_i_play_background">#FFEB3B</color>
+    <color name="bullshit_background">#650047</color>
+    <color name="colorAccent">#03DAC5</color>
+
+</resources>

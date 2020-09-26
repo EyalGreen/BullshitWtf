@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Bullshit-Wtf</string>
+    <string name="bullshit">BULLSHIT</string>
+    <string name="join_game">JOIN GAME</string>
+    <string name="join_a_game_by_entering_its_pin">JOIN A GAME BY ENTERING ITS PIN</string>
+    <string name="create_game">CREATE GAME</string>
+    <string name="set_up_a_new_game_for_you_and_your_friends">SET UP A NEW GAME FOR YOU AND YOUR FRIENDS</string>
+    <string name="how_do_i_play">HOW DO I PLAY?</string>
+    <string name="click_here_to_learn_the_rules">CLICK HERE TO LEARN THE RULES</string>
+    <string name="bullshit_title">BULLSHIT</string>
+    <string name="create_new_game">CREATE NEW GAME</string>
+    <string name="language">LANGUAGE:</string>
+    <string name="english">ENGLISH</string>
+    <string name="hebrew">HEBREW</string>
+    <string name="length">LENGTH:</string>
+    <string name="_5_questions">5 QUESTIONS</string>
+    <string name="_7_questions">7 QUESTIONS</string>
+    <string name="_9_questions">9 QUESTIONS</string>
+    <string name="create">Create</string>
+</resources>
